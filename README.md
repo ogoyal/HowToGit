@@ -31,4 +31,17 @@ How to use Git
    git push
    ```
 
+7. Pull changes from repository branch:
+   ```
+   git pull
+   ```
 
+8. Create new branch in repository:
+   ```
+   git branch br1
+   ```
+
+9. Switch to new branch:
+   ```
+   git checkout <branch name>
+   ```

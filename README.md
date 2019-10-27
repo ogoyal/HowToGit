@@ -45,3 +45,10 @@ How to use Git
    ```
    git checkout <branch name>
    ```
+
+10. Merge changes from branch to master:
+   ```
+   git checkout master
+   git merge <branch name>
+   ```
+
